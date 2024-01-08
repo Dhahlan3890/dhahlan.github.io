@@ -287,6 +287,7 @@ section {
 
 span {
   color: var(--main-color);
+  display: block;
 }
 
 .about {
@@ -585,7 +586,7 @@ span {
   }
 
   .home .profession-container .overlay {
-    right: 7rem;
+    right: -40rem;
   }
 
   .home-img img {
