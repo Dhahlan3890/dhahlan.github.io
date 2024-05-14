@@ -281,13 +281,12 @@ section {
   position: absolute;
   bottom: 0;
   right: 0;
-  width: 100%;
+  width: 90%;
   pointer-events: none;
 }
 
 span {
   color: var(--main-color);
-  display: block;
 }
 
 .about {
