@@ -280,8 +280,8 @@ section {
 .home-img img {
   position: absolute;
   bottom: 0;
-  right: 0;
-  width: 90%;
+  right: -50px;
+  width: 80%;
   pointer-events: none;
 }
 
